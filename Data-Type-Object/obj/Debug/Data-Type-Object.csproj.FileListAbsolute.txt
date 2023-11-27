@@ -1,0 +1,7 @@
+D:\1_GitHub\CSharp-ConsoleApps\Data-Type-Object\bin\Debug\Data-Type-Object.exe.config
+D:\1_GitHub\CSharp-ConsoleApps\Data-Type-Object\bin\Debug\Data-Type-Object.exe
+D:\1_GitHub\CSharp-ConsoleApps\Data-Type-Object\bin\Debug\Data-Type-Object.pdb
+D:\1_GitHub\CSharp-ConsoleApps\Data-Type-Object\obj\Debug\Data-Type-Object.csproj.AssemblyReference.cache
+D:\1_GitHub\CSharp-ConsoleApps\Data-Type-Object\obj\Debug\Data-Type-Object.csproj.CoreCompileInputs.cache
+D:\1_GitHub\CSharp-ConsoleApps\Data-Type-Object\obj\Debug\Data-Type-Object.exe
+D:\1_GitHub\CSharp-ConsoleApps\Data-Type-Object\obj\Debug\Data-Type-Object.pdb

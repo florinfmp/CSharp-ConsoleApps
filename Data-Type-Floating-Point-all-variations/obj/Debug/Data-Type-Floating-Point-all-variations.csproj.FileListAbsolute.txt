@@ -1,0 +1,7 @@
+D:\1_GitHub\CSharp-ConsoleApps\Data-Type-Floating-Point-all-variations\bin\Debug\Data-Type-Floating-Point-all-variations.exe.config
+D:\1_GitHub\CSharp-ConsoleApps\Data-Type-Floating-Point-all-variations\bin\Debug\Data-Type-Floating-Point-all-variations.exe
+D:\1_GitHub\CSharp-ConsoleApps\Data-Type-Floating-Point-all-variations\bin\Debug\Data-Type-Floating-Point-all-variations.pdb
+D:\1_GitHub\CSharp-ConsoleApps\Data-Type-Floating-Point-all-variations\obj\Debug\Data-Type-Floating-Point-all-variations.csproj.AssemblyReference.cache
+D:\1_GitHub\CSharp-ConsoleApps\Data-Type-Floating-Point-all-variations\obj\Debug\Data-Type-Floating-Point-all-variations.csproj.CoreCompileInputs.cache
+D:\1_GitHub\CSharp-ConsoleApps\Data-Type-Floating-Point-all-variations\obj\Debug\Data-Type-Floating-Point-all-variations.exe
+D:\1_GitHub\CSharp-ConsoleApps\Data-Type-Floating-Point-all-variations\obj\Debug\Data-Type-Floating-Point-all-variations.pdb

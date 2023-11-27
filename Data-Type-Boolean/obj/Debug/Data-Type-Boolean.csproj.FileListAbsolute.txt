@@ -1,0 +1,7 @@
+D:\1_GitHub\CSharp-ConsoleApps\Data-Type-Boolean\bin\Debug\Data-Type-Boolean.exe.config
+D:\1_GitHub\CSharp-ConsoleApps\Data-Type-Boolean\bin\Debug\Data-Type-Boolean.exe
+D:\1_GitHub\CSharp-ConsoleApps\Data-Type-Boolean\bin\Debug\Data-Type-Boolean.pdb
+D:\1_GitHub\CSharp-ConsoleApps\Data-Type-Boolean\obj\Debug\Data-Type-Boolean.csproj.AssemblyReference.cache
+D:\1_GitHub\CSharp-ConsoleApps\Data-Type-Boolean\obj\Debug\Data-Type-Boolean.csproj.CoreCompileInputs.cache
+D:\1_GitHub\CSharp-ConsoleApps\Data-Type-Boolean\obj\Debug\Data-Type-Boolean.exe
+D:\1_GitHub\CSharp-ConsoleApps\Data-Type-Boolean\obj\Debug\Data-Type-Boolean.pdb
