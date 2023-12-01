@@ -1,0 +1,7 @@
+D:\1_GitHub\CSharp-ConsoleApps\Variables\Variables_Declaration\bin\Debug\Variables_Declaration.exe.config
+D:\1_GitHub\CSharp-ConsoleApps\Variables\Variables_Declaration\bin\Debug\Variables_Declaration.exe
+D:\1_GitHub\CSharp-ConsoleApps\Variables\Variables_Declaration\bin\Debug\Variables_Declaration.pdb
+D:\1_GitHub\CSharp-ConsoleApps\Variables\Variables_Declaration\obj\Debug\Variables_Declaration.csproj.AssemblyReference.cache
+D:\1_GitHub\CSharp-ConsoleApps\Variables\Variables_Declaration\obj\Debug\Variables_Declaration.csproj.CoreCompileInputs.cache
+D:\1_GitHub\CSharp-ConsoleApps\Variables\Variables_Declaration\obj\Debug\Variables_Declaration.exe
+D:\1_GitHub\CSharp-ConsoleApps\Variables\Variables_Declaration\obj\Debug\Variables_Declaration.pdb
